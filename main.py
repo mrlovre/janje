@@ -53,7 +53,7 @@ def main():
         canvas.delete()
         show_image(canvas, im_pokemon, canvas_image)
 
-    # refresh_gui()
+    refresh_gui()
     win.mainloop()
 
 
