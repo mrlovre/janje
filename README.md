@@ -1,0 +1,2 @@
+# janje
+Pokedex in Python
